@@ -1,3 +1,3 @@
 # athirarepo
 reposiory for gitoperatins
-git operations for projects
+:git operations for projects
